@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Wifi.iml" filepath="$PROJECT_DIR$/Android_Wifi.iml" />
+      <module fileurl="file://D:\android\Connect-Android-to-Arduino-via-Wifi-master\Connect-Android-to-Arduino-via-Wifi-master\Android_Wifi\Android_Wifi.iml" filepath="D:\android\Connect-Android-to-Arduino-via-Wifi-master\Connect-Android-to-Arduino-via-Wifi-master\Android_Wifi\Android_Wifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\android\Connect-Android-to-Arduino-via-Wifi-master\Connect-Android-to-Arduino-via-Wifi-master\Android_Wifi\app\app.iml" filepath="D:\android\Connect-Android-to-Arduino-via-Wifi-master\Connect-Android-to-Arduino-via-Wifi-master\Android_Wifi\app\app.iml" />
+    </modules>
+  </component>
+</project>
